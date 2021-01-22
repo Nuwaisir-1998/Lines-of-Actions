@@ -7,3 +7,6 @@ Human vs. Human
 
 # Rules:
 https://en.wikipedia.org/wiki/Lines_of_Action
+
+# Run:
+Create a folder named "Game" (without quotes), and place all the files there.

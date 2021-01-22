@@ -1,7 +1,7 @@
 import pygame as p
 import subprocess
 import pygame_menu
-from Chess import ChessEngine
+from Game import ChessEngine
 
 WIDTH = HEIGHT = 512
 DIMENSION = 8
